@@ -1,0 +1,19 @@
+.showtimes { 
+    float: right;
+    color:crimson
+}
+
+img {
+    width: 400px;
+    float: right;
+}
+
+.bigger {
+    width: 700px;
+}
+
+.column {
+    width: 100px;
+    float: left;
+    float: up;
+}
